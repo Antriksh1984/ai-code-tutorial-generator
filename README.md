@@ -16,15 +16,7 @@ This project demonstrates how to build a cloud-native backend that:
 
 ## Architecture
 
-```
-Client (UI / curl / Postman)
-        ↓
-Azure Function (HTTP Trigger)
-        ↓
-Azure OpenAI (Foundry / GPT model)
-        ↓
-JSON Response (tutorial)
-```
+![Alt text](images/architecture.png)
 
 ---
 
