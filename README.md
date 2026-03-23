@@ -24,6 +24,8 @@ This project demonstrates how to build a cloud-native backend that:
 ## Screenshots
 
 ![Alt text](images/architecture.png)
+![Alt text](images/foundry.jpeg)
+![Alt text](images/function.jpeg)
 
 ---
 
