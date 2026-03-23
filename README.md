@@ -20,6 +20,14 @@ This project demonstrates how to build a cloud-native backend that:
 
 ---
 
+
+## Screenshots
+
+![Alt text](images/architecture.png)
+
+---
+
+
 ## Features
 
 * Serverless backend using Azure Functions
